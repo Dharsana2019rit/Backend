@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Http;
 using Newtonsoft.Json;
 using System;
 using System.Net;
+using cafemanagement.Exceptions;
 
 namespace cafemanagement.Aspects
 {
@@ -22,7 +23,39 @@ namespace cafemanagement.Aspects
                         var exception = errorContext.Error;
                         var statusCode = (int)HttpStatusCode.InternalServerError;
                         context.Response.StatusCode = statusCode;
-                        var response = new { StatusCode = statusCode, Message = exception.Message };
+
+                        string message;
+
+                        if (exception is CustomerAlreadyExistException)
+                        {
+                            message = "Customer already exists.";
+                        }
+                        else if (exception is CustomerNotFoundException)
+                        {
+                            message = "Customer not found.";
+                        }
+                        else if (exception is MenuItemAlreadyExistsException)
+                        {
+                            message = "Menu item already exists.";
+                        }
+                        else if (exception is MenuItemNotFoundException)
+                        {
+                            message = "Menu item not found.";
+                        }
+                        else if (exception is OrderNotFoundException)
+                        {
+                            message = "Order not found.";
+                        }
+                        else if (exception is TableBookingNotFoundException)
+                        {
+                            message = "Table booking not found.";
+                        }
+                        else
+                        {
+                            message = "An error occurred.";
+                        }
+
+                        var response = new { StatusCode = statusCode, Message = message };
                         await context.Response.WriteAsync(JsonConvert.SerializeObject(response));
                     }
                 });
