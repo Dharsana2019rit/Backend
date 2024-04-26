@@ -1,4 +1,6 @@
 app.UseGlobalExceptionHandler();
+
+
 app.UseStatusCodePagesWithReExecute("/error/{0}");
 
 
