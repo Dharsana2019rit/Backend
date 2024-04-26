@@ -1,0 +1,6 @@
+@Restro_HostAddress = http://localhost:5119
+
+GET {{Restro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

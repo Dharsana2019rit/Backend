@@ -1,0 +1,1086 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2317345\\source\\repos\\Restro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restro/True/SqlTable/dbo.Customers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\exceptions\\ordernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\exceptions\\ordernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\repositories\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\repositories\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\repositories\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\repositories\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\repositories\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\repositories\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\repositories\\imenuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\repositories\\imenuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\repositories\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\repositories\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\repositories\\itablebookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\repositories\\itablebookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\repositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\repositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\repositories\\menuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\repositories\\menuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\repositories\\tablebookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\repositories\\tablebookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\customjsonserializeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\customjsonserializeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\controllers\\tablebookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\controllers\\tablebookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\services\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\services\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\exceptions\\customernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\exceptions\\customernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\exceptions\\tablebookingnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\exceptions\\tablebookingnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\exceptions\\menuitemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\exceptions\\menuitemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\exceptions\\menuitemalreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\exceptions\\menuitemalreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\exceptions\\customeralreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\exceptions\\customeralreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\services\\itablebookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\services\\itablebookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\services\\tablebookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\services\\tablebookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\services\\imenuitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\services\\imenuitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\services\\menuitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\services\\menuitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\services\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\services\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\data\\restrodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\data\\restrodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\migrations\\restrodbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\migrations\\restrodbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\configurations\\tablebookingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\configurations\\tablebookingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\models\\tablebooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\models\\tablebooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\configurations\\menuitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\configurations\\menuitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\configurations\\menuconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\configurations\\menuconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\configurations\\loginconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\configurations\\loginconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\configurations\\feedbackconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\configurations\\feedbackconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\restro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\restro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|c:\\users\\2317345\\source\\repos\\restro\\restro\\migrations\\20240424114619_restro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23CEC2F-4DD8-4FEE-9F72-A9F560F18AD3}|Restro\\Restro.csproj|solutionrelative:restro\\migrations\\20240424114619_restro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Customers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restro/True/SqlTable/dbo.Customers.sql",
+              "ToolTip": "dbo.Customers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-25T04:13:01.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Startup.cs",
+              "RelativeDocumentMoniker": "Restro\\Startup.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Startup.cs",
+              "RelativeToolTip": "Restro\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:32:26.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\appsettings.json",
+              "RelativeDocumentMoniker": "Restro\\appsettings.json",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\appsettings.json",
+              "RelativeToolTip": "Restro\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T11:11:10.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMenuItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\IMenuItemRepository.cs",
+              "RelativeDocumentMoniker": "Restro\\Repositories\\IMenuItemRepository.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\IMenuItemRepository.cs",
+              "RelativeToolTip": "Restro\\Repositories\\IMenuItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:24:39.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Program.cs",
+              "RelativeDocumentMoniker": "Restro\\Program.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Program.cs",
+              "RelativeToolTip": "Restro\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAswCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:32:25.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\IFeedbackRepository.cs",
+              "RelativeDocumentMoniker": "Restro\\Repositories\\IFeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\IFeedbackRepository.cs",
+              "RelativeToolTip": "Restro\\Repositories\\IFeedbackRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:55:18.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Restro\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\OrderService.cs",
+              "RelativeToolTip": "Restro\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:27:08.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Exceptions\\OrderNotFoundException.cs",
+              "RelativeDocumentMoniker": "Restro\\Exceptions\\OrderNotFoundException.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Exceptions\\OrderNotFoundException.cs",
+              "RelativeToolTip": "Restro\\Exceptions\\OrderNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:33:02.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\MenuService.cs",
+              "RelativeDocumentMoniker": "Restro\\Services\\MenuService.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\MenuService.cs",
+              "RelativeToolTip": "Restro\\Services\\MenuService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:21:14.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\ILoginRepository.cs",
+              "RelativeDocumentMoniker": "Restro\\Repositories\\ILoginRepository.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\ILoginRepository.cs",
+              "RelativeToolTip": "Restro\\Repositories\\ILoginRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:57:42.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Restro\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Restro\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:50:00.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\FeedbackRepository.cs",
+              "RelativeDocumentMoniker": "Restro\\Repositories\\FeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\FeedbackRepository.cs",
+              "RelativeToolTip": "Restro\\Repositories\\FeedbackRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:51:33.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Restro\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "Restro\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:49:29.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMenuRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\IMenuRepository.cs",
+              "RelativeDocumentMoniker": "Restro\\Repositories\\IMenuRepository.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\IMenuRepository.cs",
+              "RelativeToolTip": "Restro\\Repositories\\IMenuRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:00:05.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Restro\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Restro\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:03:40.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITableBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\ITableBookingRepository.cs",
+              "RelativeDocumentMoniker": "Restro\\Repositories\\ITableBookingRepository.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\ITableBookingRepository.cs",
+              "RelativeToolTip": "Restro\\Repositories\\ITableBookingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:06:40.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Restro\\Repositories\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\LoginRepository.cs",
+              "RelativeToolTip": "Restro\\Repositories\\LoginRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:57:25.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Restro\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Restro\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:03:23.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MenuRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\MenuRepository.cs",
+              "RelativeDocumentMoniker": "Restro\\Repositories\\MenuRepository.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\MenuRepository.cs",
+              "RelativeToolTip": "Restro\\Repositories\\MenuRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:59:48.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MenuItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\MenuItemRepository.cs",
+              "RelativeDocumentMoniker": "Restro\\Repositories\\MenuItemRepository.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\MenuItemRepository.cs",
+              "RelativeToolTip": "Restro\\Repositories\\MenuItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:24:11.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TableBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\TableBookingRepository.cs",
+              "RelativeDocumentMoniker": "Restro\\Repositories\\TableBookingRepository.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Repositories\\TableBookingRepository.cs",
+              "RelativeToolTip": "Restro\\Repositories\\TableBookingRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:06:18.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomJsonSerializerOptions.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\CustomJsonSerializerOptions.cs",
+              "RelativeDocumentMoniker": "Restro\\CustomJsonSerializerOptions.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\CustomJsonSerializerOptions.cs",
+              "RelativeToolTip": "Restro\\CustomJsonSerializerOptions.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:44:48.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Restro\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Restro\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:41:31.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "Restro\\Controllers\\FeedbackController.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "Restro\\Controllers\\FeedbackController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:37:51.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TableBookingController.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Controllers\\TableBookingController.cs",
+              "RelativeDocumentMoniker": "Restro\\Controllers\\TableBookingController.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Controllers\\TableBookingController.cs",
+              "RelativeToolTip": "Restro\\Controllers\\TableBookingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:37:22.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Restro\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Restro\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:39:24.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Restro\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Restro\\Controllers\\MenuController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:40:09.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MenuItemController.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Controllers\\MenuItemController.cs",
+              "RelativeDocumentMoniker": "Restro\\Controllers\\MenuItemController.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Controllers\\MenuItemController.cs",
+              "RelativeToolTip": "Restro\\Controllers\\MenuItemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:40:47.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IFeedbackService.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\IFeedbackService.cs",
+              "RelativeDocumentMoniker": "Restro\\Services\\IFeedbackService.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\IFeedbackService.cs",
+              "RelativeToolTip": "Restro\\Services\\IFeedbackService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:15:25.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Restro\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Restro\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:36:12.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TableBookingNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Exceptions\\TableBookingNotFoundException.cs",
+              "RelativeDocumentMoniker": "Restro\\Exceptions\\TableBookingNotFoundException.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Exceptions\\TableBookingNotFoundException.cs",
+              "RelativeToolTip": "Restro\\Exceptions\\TableBookingNotFoundException.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:34:57.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomerNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Exceptions\\CustomerNotFoundException.cs",
+              "RelativeDocumentMoniker": "Restro\\Exceptions\\CustomerNotFoundException.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Exceptions\\CustomerNotFoundException.cs",
+              "RelativeToolTip": "Restro\\Exceptions\\CustomerNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:32:07.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MenuItemNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Exceptions\\MenuItemNotFoundException.cs",
+              "RelativeDocumentMoniker": "Restro\\Exceptions\\MenuItemNotFoundException.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Exceptions\\MenuItemNotFoundException.cs",
+              "RelativeToolTip": "Restro\\Exceptions\\MenuItemNotFoundException.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:32:56.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MenuItemAlreadyExistException.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Exceptions\\MenuItemAlreadyExistException.cs",
+              "RelativeDocumentMoniker": "Restro\\Exceptions\\MenuItemAlreadyExistException.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Exceptions\\MenuItemAlreadyExistException.cs",
+              "RelativeToolTip": "Restro\\Exceptions\\MenuItemAlreadyExistException.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:32:28.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomerAlreadyExistException.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Exceptions\\CustomerAlreadyExistException.cs",
+              "RelativeDocumentMoniker": "Restro\\Exceptions\\CustomerAlreadyExistException.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Exceptions\\CustomerAlreadyExistException.cs",
+              "RelativeToolTip": "Restro\\Exceptions\\CustomerAlreadyExistException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:31:46.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ITableBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\ITableBookingService.cs",
+              "RelativeDocumentMoniker": "Restro\\Services\\ITableBookingService.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\ITableBookingService.cs",
+              "RelativeToolTip": "Restro\\Services\\ITableBookingService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:29:32.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TableBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\TableBookingService.cs",
+              "RelativeDocumentMoniker": "Restro\\Services\\TableBookingService.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\TableBookingService.cs",
+              "RelativeToolTip": "Restro\\Services\\TableBookingService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:29:15.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Restro\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Restro\\Services\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:27:20.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IMenuItemService.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\IMenuItemService.cs",
+              "RelativeDocumentMoniker": "Restro\\Services\\IMenuItemService.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\IMenuItemService.cs",
+              "RelativeToolTip": "Restro\\Services\\IMenuItemService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:25:00.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MenuItemService.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\MenuItemService.cs",
+              "RelativeDocumentMoniker": "Restro\\Services\\MenuItemService.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\MenuItemService.cs",
+              "RelativeToolTip": "Restro\\Services\\MenuItemService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:24:47.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IMenuService.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\IMenuService.cs",
+              "RelativeDocumentMoniker": "Restro\\Services\\IMenuService.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\IMenuService.cs",
+              "RelativeToolTip": "Restro\\Services\\IMenuService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:21:26.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FeedbackService.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\FeedbackService.cs",
+              "RelativeDocumentMoniker": "Restro\\Services\\FeedbackService.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\FeedbackService.cs",
+              "RelativeToolTip": "Restro\\Services\\FeedbackService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:15:03.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Restro\\Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "Restro\\Services\\ICustomerService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:13:27.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Restro\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Restro\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:12:31.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Restro\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Restro\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:10:22.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Restro\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Services\\AuthService.cs",
+              "RelativeToolTip": "Restro\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:10:03.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20240424114619_restro.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Migrations\\20240424114619_restro.cs",
+              "RelativeDocumentMoniker": "Restro\\Migrations\\20240424114619_restro.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Migrations\\20240424114619_restro.cs",
+              "RelativeToolTip": "Restro\\Migrations\\20240424114619_restro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:46:19.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RestroDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Data\\RestroDbContext.cs",
+              "RelativeDocumentMoniker": "Restro\\Data\\RestroDbContext.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Data\\RestroDbContext.cs",
+              "RelativeToolTip": "Restro\\Data\\RestroDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:35:15.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RestroDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Migrations\\RestroDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Restro\\Migrations\\RestroDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Migrations\\RestroDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Restro\\Migrations\\RestroDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:43:57.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "Restro\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "Restro\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:27:42.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TableBookingConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Configurations\\TableBookingConfiguration.cs",
+              "RelativeDocumentMoniker": "Restro\\Configurations\\TableBookingConfiguration.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Configurations\\TableBookingConfiguration.cs",
+              "RelativeToolTip": "Restro\\Configurations\\TableBookingConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:32:13.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TableBooking.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Models\\TableBooking.cs",
+              "RelativeDocumentMoniker": "Restro\\Models\\TableBooking.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Models\\TableBooking.cs",
+              "RelativeToolTip": "Restro\\Models\\TableBooking.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:22:59.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Restro\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Models\\MenuItem.cs",
+              "RelativeToolTip": "Restro\\Models\\MenuItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:08:11.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "Restro\\Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Models\\Menu.cs",
+              "RelativeToolTip": "Restro\\Models\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:07:00.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "MenuItemConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Configurations\\MenuItemConfiguration.cs",
+              "RelativeDocumentMoniker": "Restro\\Configurations\\MenuItemConfiguration.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Configurations\\MenuItemConfiguration.cs",
+              "RelativeToolTip": "Restro\\Configurations\\MenuItemConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:32:07.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MenuConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Configurations\\MenuConfiguration.cs",
+              "RelativeDocumentMoniker": "Restro\\Configurations\\MenuConfiguration.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Configurations\\MenuConfiguration.cs",
+              "RelativeToolTip": "Restro\\Configurations\\MenuConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:27:14.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "LoginConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Configurations\\LoginConfiguration.cs",
+              "RelativeDocumentMoniker": "Restro\\Configurations\\LoginConfiguration.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Configurations\\LoginConfiguration.cs",
+              "RelativeToolTip": "Restro\\Configurations\\LoginConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:32:01.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FeedbackConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Configurations\\FeedbackConfiguration.cs",
+              "RelativeDocumentMoniker": "Restro\\Configurations\\FeedbackConfiguration.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Configurations\\FeedbackConfiguration.cs",
+              "RelativeToolTip": "Restro\\Configurations\\FeedbackConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:31:54.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Configurations\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "Restro\\Configurations\\CustomerConfiguration.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Configurations\\CustomerConfiguration.cs",
+              "RelativeToolTip": "Restro\\Configurations\\CustomerConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:31:52.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Restro\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Models\\Order.cs",
+              "RelativeToolTip": "Restro\\Models\\Order.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:22:30.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "Restro\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Models\\Feedback.cs",
+              "RelativeToolTip": "Restro\\Models\\Feedback.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:04:42.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Restro\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Models\\Customer.cs",
+              "RelativeToolTip": "Restro\\Models\\Customer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:32:37.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Restro",
+              "DocumentMoniker": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Restro.csproj",
+              "RelativeDocumentMoniker": "Restro\\Restro.csproj",
+              "ToolTip": "C:\\Users\\2317345\\source\\repos\\Restro\\Restro\\Restro.csproj",
+              "RelativeToolTip": "Restro\\Restro.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T11:31:39.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
