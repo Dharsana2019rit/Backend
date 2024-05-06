@@ -9,6 +9,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.AspNetCore.Http;
+using Newtonsoft.Json.Linq;
+using System.Net.Http;
 
 namespace cafemanagement.Services
 {
@@ -103,30 +105,33 @@ namespace cafemanagement.Services
             return GenerateJwtToken(existingUser);
         }
 
-
         public async Task<string?> AuthenticateAsync(HttpContext httpContext, string? cookieToken = null)
         {
             try
             {
-                // Check if the user is authenticated
-                if (httpContext.User.Identity?.IsAuthenticated ?? false)
+                // Check if a JWT token is provided in the request headers
+                var jwtToken = httpContext.Request.Headers["Authorization"].ToString().Replace("Bearer ", "");
+                if (!string.IsNullOrEmpty(jwtToken))
                 {
-                    // Retrieve the authenticated user's email from the claims
-                    var userEmail = httpContext.User.FindFirst(ClaimTypes.Email)?.Value;
-
-                    if (!string.IsNullOrEmpty(userEmail))
+                    var claimsPrincipal = ValidateJwtToken(jwtToken);
+                    if (claimsPrincipal != null)
                     {
-                        // Retrieve the user from the database based on the email
-                        var user = await _context.Logins.SingleOrDefaultAsync(u => u.EmailId == userEmail);
 
-                        if (user != null)
+                        // Retrieve the user's email from the validated token claims
+                        var userEmail = claimsPrincipal.FindFirst(ClaimTypes.Email)?.Value;
+                        if (!string.IsNullOrEmpty(userEmail))
                         {
-                            // Generate and return JWT token for the authenticated user
-                            return GenerateJwtToken(user);
+                            // Retrieve the user from the database based on the email
+                            var user = await _context.Logins.SingleOrDefaultAsync(u => u.EmailId == userEmail);
+
+                            if (user != null)
+                            {
+                                // Generate and return JWT token for the authenticated user
+                                return GenerateJwtToken(user);
+                            }
                         }
                     }
                 }
-
                 // If the user is not authenticated or user not found in the database, authentication fails
                 return null;
             }
@@ -138,6 +143,27 @@ namespace cafemanagement.Services
                 return null;
             }
         }
+
+        private ClaimsPrincipal ValidateJwtToken(string token)
+        {
+            var tokenHandler = new JwtSecurityTokenHandler();
+            var key = Encoding.ASCII.GetBytes(_config["JWT:Key"]);
+
+            var validationParameters = new TokenValidationParameters
+            {
+                ValidateIssuer = true,
+                ValidateAudience = true,
+                ValidateIssuerSigningKey = true,
+                ValidIssuer = _config["JWT:Issuer"],
+                ValidAudience = _config["JWT:Audience"],
+                IssuerSigningKey = new SymmetricSecurityKey(key),
+                ClockSkew = TimeSpan.Zero // remove delay of token when expire
+            };
+
+            SecurityToken validatedToken;
+            return tokenHandler.ValidateToken(token, validationParameters, out validatedToken);
+        }
+
 
         private string GenerateJwtToken(Login user)
         {
